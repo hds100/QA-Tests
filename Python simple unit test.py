@@ -7,7 +7,7 @@ import unittest
 def add_numbers(a, b):
     return a + b
 
-#  Implementing the test class and testing the function in different cases
+# Implementing the test class and testing the function in different cases
 
 class TestAddNumbers(unittest.TestCase):
 
